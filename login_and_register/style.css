@@ -20,10 +20,6 @@ h1 {
 	margin: 0;
 }
 
-h2 {
-	text-align: center;
-}
-
 p {
 	font-size: 14px;
 	font-weight: 100;
@@ -54,6 +50,7 @@ button {
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	transition: transform 80ms ease-in;
+	cursor: pointer;
 }
 
 button:active {
